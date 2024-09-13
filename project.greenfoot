@@ -1,9 +1,9 @@
 #Greenfoot project file
 class.Hero.image=snowman.png
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=841
+editor.fx.0.width=1315
+editor.fx.0.x=60
+editor.fx.0.y=114
 height=551
 package.numDependencies=0
 package.numTargets=2
@@ -38,5 +38,5 @@ target2.y=0
 version=3.1.0
 width=812
 world.lastInstantiated=MyWorld
-xPosition=100
-yPosition=100
+xPosition=641
+yPosition=68

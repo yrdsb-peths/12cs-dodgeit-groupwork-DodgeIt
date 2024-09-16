@@ -14,6 +14,7 @@ public class Banana extends Actor
      */
     public void act()
     {
+        //comment to create conflict
         move(-5);
         if(getX() <= 0)
         {
